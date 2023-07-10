@@ -1,5 +1,3 @@
-// Assumption: You have the necessary modules and APIs to interact with the microservices.
-
 // Import necessary modules and libraries
 const axios = require("axios");
 
